@@ -1,8 +1,8 @@
 # apache-flink-learn
 
 APACHE FLINK README.TXT
-#start flink:  bin/start-cluster.sh
-#run a job: ./bin/flink run -c {fully_qualified_class_name} {base_folder_path}/target/apache-flink-recon-1.0-SNAPSHOT.jar
+# start flink:  bin/start-cluster.sh
+# run a job: ./bin/flink run -c {fully_qualified_class_name} {base_folder_path}/target/apache-flink-recon-1.0-SNAPSHOT.jar
 # -c argument provides fully qualified name of main class in the given target folder
 
 
